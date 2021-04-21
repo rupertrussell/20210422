@@ -1,4 +1,6 @@
 # 20210422
+Artwork on redbubble at: https://www.redbubble.com/shop/ap/76785662
+Blue Mandelbrot Deep Zoom 002
 
 2021-04-20-002 {
 fractal:
